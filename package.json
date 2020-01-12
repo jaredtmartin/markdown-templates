@@ -1,0 +1,15 @@
+{
+  "name": "@jaredthane/markdown-templates",
+  "version": "1.0.0",
+  "description": "A light markdown renderer with template features added!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "markdown",
+    "template"
+  ],
+  "author": "Jared Martin",
+  "license": "ISC"
+}
